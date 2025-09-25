@@ -1,0 +1,200 @@
+### My company
+
+
+--
+Name
+--
+
+
+--
+Stage
+--
+
+
+--
+Business model
+--
+
+
+--
+Value Proposition (VP)
+--
+
+
+--
+North Star Metric (NSM)
+--
+
+
+--
+One Metric That Matters
+--
+
+
+--
+Description
+--
+
+
+******************************
+
+
+### Ideal Customer Profile (ICP)
+
+
+--
+Name
+--
+
+
+--
+Vision
+--
+
+
+--
+Description
+--
+
+
+--
+Competitive differentiation
+--
+
+
+--
+Geography
+--
+
+
+--
+Industry
+--
+
+
+--
+Company
+--
+
+
+--
+Pain points
+--
+1.
+2.
+3.
+
+
+--
+Business goals
+--
+1.
+2.
+3.
+
+
+--
+Current alternatives
+--
+1.
+2.
+3.
+
+
+--
+Decision-making process
+--
+
+
+--
+Buying process
+--
+
+
+--
+Discovery
+--
+
+
+--
+Triggers
+--
+
+
+--
+Time-to-Value (TTV)
+--
+
+
+******************************
+
+
+### Jobs-to-be-Done (JTBD)
+
+
+--
+Social
+--
+
+
+--
+Emotional
+--
+
+
+--
+Functional
+--
+
+
+******************************
+
+
+### Journey and feedback loops
+
+
+--
+Emotion
+--
+
+
+--
+Decision
+--
+
+
+--
+Motivation
+--
+
+
+--
+Rewards and results
+--
+
+
+******************************
+
+
+### Growth loops
+
+
+--
+Growth loop #1
+--
+
+
+******************************
+
+
+### Experiments
+
+
+--
+Experiment #1
+--
+Why:
+How:
+
+Because we observed observation, we will change. 
+After duration, we expect to change metric by __% from __% to __%.
