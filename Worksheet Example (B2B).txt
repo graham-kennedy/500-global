@@ -1,0 +1,273 @@
+### My company
+
+
+--
+Name
+--
+ComplyKit
+
+
+--
+Stage
+--
+Pre-seed; looking to raise a $1.5m seed round within 9 months
+
+
+--
+Business model
+--
+B2B; 50/50% mix of Sales Led-Growth (SLG) through Founder-Led Sales (FLS) and Product-Led Growth (PLG)
+
+
+--
+Value Proposition (VP)
+--
+We make compliance and governance easier for Egyptian FinTech and digital banks via automated API-driven audit tools, tailored for CBE and FRA regulations.
+
+
+--
+North Star Metric (NSM)
+--
+Number of Audit Controls Validated
+
+
+--
+One Metric That Matters
+--
+1. Number of Pilot Customers Onboarded into Sandbox (next 3 weeks)
+2. Average Number of Controls Automated per Pilot Customer (following 5 weeks)
+3. % of Pilot Customers Achieving 50% Audit Prep Time Reduction (following 4 weeks)
+
+
+--
+Description
+--
+ComplyKit is a compliance automation platform for Egypt’s growing FinTech and digital banking sector. As startups scale payments, lending, and banking products, they face stricter reviews from the Central Bank of Egypt (CBE) and Financial Regulatory Authority (FRA). Most teams still use manual checklists or consultants, slowing launches and creating costly delays.
+
+ComplyKit replaces this with API-driven audit tools that connect to AWS and GCP microservices, automatically collecting and organizing compliance evidence. This cuts audit prep time by 50% within weeks and keeps teams always audit-ready. FinTechs launch regulated products twice as fast while reducing engineering and risk overhead.
+
+Founded 18 months ago, ComplyKit brings together a CTO with banking and AI expertise and a FinTech CEO with a prior exit. They built ComplyKit to give SMEs and growth-stage FinTechs enterprise-level compliance speed and confidence without enterprise costs.
+
+
+******************************
+
+
+### Ideal Customer Profile (ICP)
+
+
+--
+Name
+--
+Growth-stage, cloud-native Egyptian FinTechs
+
+
+--
+Vision
+--
+In the next three years, our ICP wants fully automated, audit-ready compliance across all financial products, enabling them to launch new regulated offerings twice as fast while reducing audit prep cycles by 70%.
+
+
+--
+Description
+--
+Our ICP is Egyptian payments, lending, and digital banking startups running on AWS/GCP micro-services with compliance budgets owned by the COO or Head of Risk. Preparing for strict CBE and FRA reviews, they need an out-of-the-box API to replace manual workflows, eliminate duplicated evidence, and accelerate audit prep.
+
+
+--
+Competitive differentiation
+--
+1. Unlike consultants who deliver static reports that expire quickly, we embed compliance directly into workflows resulting in continuous audit readiness and accelerated scaling for Egyptian FinTechs.
+2. Unlike manual Excel and Python tools that break under scale, we automate evidence collection across AWS/GCP, ensuring accuracy and speed as FinTechs grow.
+3. Unlike fragmented checklists scattered across teams, we centralize compliance data in one dashboard, giving COOs and risk leaders full visibility and control.
+4. Unlike generic global compliance software that overlooks local regulation, we’re purpose-built for Egyptian CBE and FRA requirements, delivering tailored audit readiness out of the box.
+
+
+--
+Geography
+--
+Egypt primarily; North Africa (10%); their focus is on serving customers in MENA
+
+
+--
+Industry
+--
+1. Payments - digital wallets, money transfer apps, and payment gateways scaling under strict CBE oversight.
+2. Lending - consumer and SME lending platforms that face heavy regulatory review for risk and credit processes.
+3. Digital banking - neobanks and challenger banks building regulated banking products on AWS/GCP stacks.
+
+
+--
+Company
+--
+Typically has 50–200 employees, $3–15M in annual revenue, and is growing post-seed into Series A/B. (15%) are larger enterprise customers with dedicated compliance or governance teams.
+
+
+--
+Pain points
+--
+1. Compliance updates delay product launches
+2. Audit evidence is scattered across systems
+3. Teams burn time managing alerts manually
+
+
+--
+Business goals
+--
+1. Feel confident passing CBE/FRA audits
+2. Ship new features faster
+3. Free engineering and risk teams’ time
+
+
+--
+Current alternatives
+--
+1. Manual compliance checklists
+2. Hiring boutique consultants
+3. Custom Excel/Python tools
+
+
+--
+Decision-making process
+--
+Buy-in from COO, Head of Risk, and CISO when making buying decisions.
+
+
+--
+Buying process
+--
+30–45 day sandbox pilots using annual SaaS/API contracts.
+
+
+--
+Discovery
+--
+Local FinTech Egypt meetups, CBE/FRA regulatory forums, and VC network referrals.
+
+
+--
+Triggers
+--
+Preparing for their first CBE/FRA audit, after raising a new funding round, or when a delayed launch due to compliance costs them growth.
+
+
+--
+Time-to-Value (TTV)
+--
+Expects to see results within 30–60 days; ideally cutting audit prep cycles in half before their next review.
+
+
+******************************
+
+
+### Jobs-to-be-Done (JTBD)
+
+
+--
+Social
+--
+1. Be seen as a trustworthy, regulation-first FinTech partner in their ecosystem
+2. Earn internal respect from compliance, risk, and executive stakeholders
+3. Demonstrate regulatory modernity within investor or peer circles
+
+
+--
+Emotional
+--
+1. Feel confident audits won’t become crises
+2. Reduce anxiety over missing controls or evidence gaps
+3. Gain peace of mind that compliance won’t stunt product velocity
+
+
+--
+Functional
+--
+1. Automatically collect, organize, and validate compliance evidence via APIs
+2. Cut audit preparation time in half
+3. Launch new regulated product features faster, with fewer manual steps
+
+
+******************************
+
+
+### Journey and feedback loops
+
+
+--
+Emotion
+--
+1. Anxiety over missing audit deadlines
+2. Frustration from compliance tool chaos
+3. Relief when evidence gaps are resolved
+
+
+--
+Decision
+--
+1. Choose tool that offers fastest time-to-value
+2. Prioritize providers with local regulatory alignment
+3. Select solutions with minimal onboarding friction
+
+
+--
+Motivation
+--
+1. Avoid audit penalties or regulatory rework
+2. Free engineer time for product delivery
+3. Win executive confidence in compliance
+
+
+--
+Rewards and results
+--
+1. Launch new regulated features faster
+2. Reduce audit prep time by ≥ 50%
+3. Maintain continuous audit readiness with fewer errors
+
+
+******************************
+
+
+### Growth loops
+
+
+--
+Growth loop #1
+--
+
+As pilots validate controls and generate audit summaries, those outputs become shareable proof that drives new pilot signups, creating a self-reinforcing growth engine.
+
+1. Input:
+A pilot customer validates a set of compliance controls via API (i.e. completes early “audit control pack”).
+
+2. Action:
+The system auto-generates a compliance audit summary or readiness score from validated evidence, visible on a dashboard.
+
+3. Output:
+That audit summary (or readiness score) is shareable by the pilot customer with peers, boards, or regulators, which generates inbound interest and referrals from similar companies.
+
+4. Feedback into loop:
+New leads triggered by referrals sign up for their own pilots; their usage validates controls and feeds back into the same loop.
+
+
+******************************
+
+
+### Experiments
+
+
+--
+Experiment #1
+--
+Why: (Market × Discovery) Explore which ICP yields maximum onboarding activation to refine targeting.
+How: (Market × Discovery) Run micro-experiments comparing onboarding variants across ICP segments for signal data.
+
+Because we observed that 50% of pilot prospects drop-off during onboarding, we will run a pilot onboarding experiment offering digital banking prospects a “preconfigured audit control pack” (vs full setup) to reduce friction. After 7 days, we expect the activation rate to increase by 50% from 10% to 15%.
+
+
+--
+Experiment #2
+--
+Why: (Market × Discovery) Find which content magnet drives demo-intent among ICP segments.
+How: (Market × Discovery) Offer a compliance insights “mini report” to visitors in different ICP categories to compare conversion.
+
+Because we observed that only 20% of prospects request demos after reading our features page, we will experiment by providing a “compliance audit insights snapshot” (a 1-page mini report) for visitors who click “Request Demo.” After 7 days, we expect demo request conversion to increase by 50% from 4% to 6%.
